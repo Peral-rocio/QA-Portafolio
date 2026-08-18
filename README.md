@@ -21,4 +21,4 @@ Soy Tester QA Manual en formación, con conocimientos de SQL para
 validación de datos, y base técnica en desarrollo Frontend (HTML, CSS, 
 JavaScript, React). 
 
-📍 linkedin.com/in/rocio-evangelina-peralta-9a90a6403
+📍 linkedin.com/in/rocio-evangelina-peralta
